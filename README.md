@@ -1,4 +1,3 @@
-![Sunrise](IMG_20180812_062021629_HDR.jpg)
 ### Hello World 👋 I am Janek
 
 ## Introduction
