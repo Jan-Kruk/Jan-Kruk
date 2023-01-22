@@ -15,6 +15,17 @@ and use all my time to code and learn new things.
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,angular)](https://skillicons.dev)
 
+## Currently working:
+
+
+## Finished projects that i'm proud of:
+
+- https://magdalenababiarz-psychologlancut.pl/
+
+## How to reach me:
+
+- 
+
 
 <!--
 **JanioKruk/JanioKruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
