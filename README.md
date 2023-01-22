@@ -1,4 +1,4 @@
-![Sunrise](sunrise.jpg)
+
 ### Hello World 👋 I am Janek
 
 ## Introduction
