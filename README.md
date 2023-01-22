@@ -1,6 +1,6 @@
 ### Hello World 👋 I am Janek
 
-##Introduction
+## Introduction
 
 Currently i'm working in civil engeenering with my master degree in technology of construcion works i've tried different branches of this sector such as cost estimator, construction designer, construction engineer. Which result in gaining konwledge how to manage people, how to work with project, how to work with team of people, how to manage your avabile resources, how to work under pressure.
 
