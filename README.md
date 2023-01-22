@@ -7,9 +7,13 @@
   But nothing gave me such satisfaction and fun as working as aspiring frontend developer. All started with my will to rebrand myself and simple idea to build a page for my wife who is speech terapist, for this we used webpage creator but the access was limited and we didn't have freedom in creating what we want. So there comes another idea to learn from web courses how to make pages that **Works**. Now basicly all my free time i gave up to learn coding. My dream is to rebrand to **FrontEnd Developer** 
 and use all my time to code and learn new things.
 
-## My development toolbelt
+## My development toolbelt:
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,sass,git,github,vscode)](https://skillicons.dev)
 
+## Currently learning:
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,angular)](https://skillicons.dev)
 
 
 <!--
