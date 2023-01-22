@@ -18,6 +18,7 @@ and use all my time to code and learn new things.
 
 ## Currently working:
 
+- https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW
 
 ## Finished projects that i'm proud of:
 
