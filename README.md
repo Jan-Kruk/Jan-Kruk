@@ -26,7 +26,8 @@ and use all my time to code and learn new things.
 
 ## How to reach me:
 
-- jankruk12342@gmail.com
+- jankruk.frontenddeveloper@gmail.com
+
 
 
 <!--
