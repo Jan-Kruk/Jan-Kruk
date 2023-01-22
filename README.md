@@ -8,7 +8,7 @@
 and use all my time to code and learn new things.
 
 ## My development toolbelt
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,sass,git,github,vscode)](https://skillicons.dev)
 
 
 
