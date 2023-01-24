@@ -14,7 +14,7 @@ and use all my time to code and learn new things.
 
 ## Currently learning:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 ## Currently working:
 
