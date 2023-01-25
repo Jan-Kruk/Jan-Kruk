@@ -26,7 +26,7 @@ and use all my time to code and learn new things.
 
 ## Finished projects from frontendmentor:
 
-- https://janiokruk.github.io/Todo-list---frontend-mentor/
+- live: https://janiokruk.github.io/Todo-list---frontend-mentor/ code:https://github.com/JanioKruk/Todo-list---frontend-mentor
 
 ## How to reach me:
 
