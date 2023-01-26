@@ -18,7 +18,7 @@ and use all my time to code and learn new things.
 
 ## Currently working:
 
-- standby
+- finishing Javascript courses
 
 ## Finished projects that i'm proud of:
 
