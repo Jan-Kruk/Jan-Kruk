@@ -22,15 +22,15 @@ and use all my time to code and learn new things.
 
 ## Finished projects that i'm proud of:
 
-- https://magdalenababiarz-psychologlancut.pl/
+- [Site for my Friend who is Psychologist]([https://www.google.com](https://magdalenababiarz-psychologlancut.pl/))
 
 ## Finished projects from frontendmentor:
 
-- live: https://janiokruk.github.io/Todo-list---frontend-mentor/ || code: https://github.com/JanioKruk/Todo-list---frontend-mentor
+- [**TODO live**](https://janiokruk.github.io/Todo-list---frontend-mentor/) || [**TODO code**] https://github.com/JanioKruk/Todo-list---frontend-mentor
 
 ## How to reach me:
 
-- jankruk.frontenddeveloper@gmail.com
+- [:email:] jankruk.frontenddeveloper@gmail.com
 
 
 
