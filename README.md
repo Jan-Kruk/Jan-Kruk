@@ -22,7 +22,7 @@ and use all my time to code and learn new things.
 
 ## Finished projects that i'm proud of:
 
-- [Site for my friend who is Psychologist](https://magdalenababiarz-psychologlancut.pl/)
+- [Site for my friend who is Psychologist](https://magdalenababiarz-psychologlancut.pl/) || BUILD WITH: **HTML + SASS + JS**
 
 ## Finished projects from frontendmentor:
 
