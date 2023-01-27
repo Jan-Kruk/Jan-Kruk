@@ -18,7 +18,7 @@ and use all my time to code and learn new things.
 
 ## Currently working:
 
-- finishing Javascript courses
+- [Room Homepage - frontEnd Mentor](https://www.frontendmentor.io/challenges/room-homepage-BtdBY_ENq/hub)
 
 ## Finished projects that i'm proud of:
 
