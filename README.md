@@ -31,6 +31,7 @@ and use all my time to code and learn new things.
 ## Courses I have finished and I can recommend for you to try:
 
 - Web developer road map made by [Majek](https://mmcschool.pl/) in ![Polish Flag](poland-flag-waving.png)
+- 
 
 ## How to reach me:
 
