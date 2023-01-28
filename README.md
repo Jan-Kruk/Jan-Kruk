@@ -30,7 +30,7 @@ and use all my time to code and learn new things.
 
 ## Courses I have finished and I can recommend for you to try:
 
-- Web developer road map made by [Majek](https://mmcschool.pl/) in <img src="poland-flag-waving.png" width="10" height="10">
+- Web developer road map made by [Majek](https://mmcschool.pl/) in <img src="poland-flag-waving.png" width="15" height="15">
 - 
 
 ## How to reach me:
