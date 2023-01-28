@@ -28,6 +28,10 @@ and use all my time to code and learn new things.
 
 - [**TODO live**](https://janiokruk.github.io/Todo-list---frontend-mentor/) || [**TODO code**](https://github.com/JanioKruk/Todo-list---frontend-mentor)  || BUILD WITH: **HTML + SASS + JS**
 
+## Courses I have finished and I can recommend for you to try:
+
+- Web developer road map made by [Majek](https://mmcschool.pl/) in (https://cdn-icons-png.flaticon.com/512/299/299737.png)
+
 ## How to reach me:
 
 - [:email:](jankruk.frontenddeveloper@gmail.com)jankruk.frontenddeveloper@gmail.com
