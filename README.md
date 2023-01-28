@@ -16,7 +16,7 @@ and use all my time to code and learn new things.
 
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
-## Currently working:
+## Currently working on:
 
 - [Room Homepage - frontEnd Mentor](https://www.frontendmentor.io/challenges/room-homepage-BtdBY_ENq/hub)
 - https://www.freecodecamp.org/
