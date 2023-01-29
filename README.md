@@ -3,10 +3,16 @@
 
 ## Introduction
 
-  Currently i'm working in civil engeenering with my master degree in technology of construcion works i've tried different branches of this sector such as cost estimator, construction designer, construction engineer. Which result in gaining konwledge how to manage people, how to work with project, how to work with team of people, how to manage your avabile resources, how to work under pressure.
+Currently i'm working in civil engeenering industry with my master degree in technology of construcion works.
 
-  But nothing gave me such satisfaction and fun as working as aspiring frontend developer. All started with my will to rebrand myself and simple idea to build a page for my wife who is speech terapist, for this we used webpage creator but the access was limited and we didn't have freedom in creating what we want. So there comes another idea to learn from web courses how to make pages that **Works**. Now basicly all my free time i gave up to learn coding. My dream is to rebrand to **FrontEnd Developer** 
-and use all my time to code and learn new things.
+ I've tried my luck in different branches of this sector working as cost estimator, design engineer or site engineer. All those experiences resulted in gaining knowledge on how to manage people, how to work with projects, how to cooperate with a team, how to manage your available resources and work under pressure.
+ 
+To my supprise, nothing gave me such satisfaction and fun as working as aspiring frontend developer. 
+
+All started with my will to change proffesion and simple idea to build a website for my wife who is speech terapist. To do so, we used webpage creator but the access was limited and we didn't have freedom in creating what we wanted. At that point there appeared another idea - to learn from web courses how to make websites that **WORK**. Since then I devote basicaly all my free time to learn coding.
+
+My dream and main goal is to become a full time **FrontEnd Developer** and use all my effort to code and learn new things.
+
 
 ## My development toolbelt:
 
