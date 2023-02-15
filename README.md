@@ -20,7 +20,7 @@ My dream and main goal is to become a full time **FrontEnd Developer** and use a
 
 ## Currently learning:
 
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,angular)](https://skillicons.dev)
 
 ## Currently working on:
 
