@@ -20,7 +20,7 @@ My dream and main goal is to become a full time **Software Developer** and use a
 
 ## Currently learning:
 
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,angular,typescript)](https://skillicons.dev)
 
 ## Currently working on:
 
