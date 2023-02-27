@@ -7,7 +7,7 @@ Currently i'm working in civil engeenering industry with my master degree in tec
 
  I've tried my luck in different branches of this sector working as cost estimator, design engineer or site engineer. All those experiences resulted in gaining knowledge on how to manage people, how to work with projects, how to cooperate with a team, how to manage your available resources and work under pressure.
  
-To my supprise, nothing gave me such satisfaction and fun as working as aspiring frontend developer. 
+To my supprise, nothing gave me such satisfaction and fun as working as aspiring software developer. 
 
 All started with my will to change proffesion and simple idea to build a website for my wife who is speech terapist. To do so, we used webpage creator but the access was limited and we didn't have freedom in creating what we wanted. At that point there appeared another idea - to learn from web courses how to make websites that **WORK**. Since then I devote basicaly all my free time to learn coding.
 
@@ -25,11 +25,9 @@ My dream and main goal is to become a full time **Software Developer** and use a
 ## Currently working on:
 
 
-## Finished projects that i'm proud of:
+## Finished projects:
 
 - [Site for my friend who is Psychologist](https://magdalenababiarz-psychologlancut.pl/) || BUILD WITH: **HTML + SASS + JS + GULP**
-
-## Finished projects from frontendmentor:
 
 - [**TODO live**](https://janiokruk.github.io/Todo-list---frontend-mentor/) || [**TODO code**](https://github.com/JanioKruk/Todo-list---frontend-mentor)  || BUILD WITH: **HTML + SASS + JS**
 
