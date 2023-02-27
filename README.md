@@ -11,7 +11,7 @@ To my supprise, nothing gave me such satisfaction and fun as working as aspiring
 
 All started with my will to change proffesion and simple idea to build a website for my wife who is speech terapist. To do so, we used webpage creator but the access was limited and we didn't have freedom in creating what we wanted. At that point there appeared another idea - to learn from web courses how to make websites that **WORK**. Since then I devote basicaly all my free time to learn coding.
 
-My dream and main goal is to become a full time **FrontEnd Developer** and use all my effort to code and learn new things.
+My dream and main goal is to become a full time **Software Developer** and use all my effort to code and learn new things.
 
 
 ## My development toolbelt:
@@ -20,12 +20,10 @@ My dream and main goal is to become a full time **FrontEnd Developer** and use a
 
 ## Currently learning:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 ## Currently working on:
 
-- [Room Homepage - frontEnd Mentor](https://www.frontendmentor.io/challenges/room-homepage-BtdBY_ENq/hub)
-- https://www.freecodecamp.org/
 
 ## Finished projects that i'm proud of:
 
@@ -38,7 +36,6 @@ My dream and main goal is to become a full time **FrontEnd Developer** and use a
 ## Courses I have finished and I can recommend for you to try:
 
 - Web developer road map made by [Majek](https://mmcschool.pl/) in <img src="poland-flag-waving.png" height="20" alt="Polish Flag">
-- 
 
 ## How to reach me:
 
