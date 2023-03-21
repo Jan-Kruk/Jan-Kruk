@@ -37,7 +37,7 @@ My dream and main goal is to become a full time **Software Developer** and use a
 
 ## How to reach me:
 
-- [:email:](jankruk.frontenddeveloper@gmail.com)jankruk.frontenddeveloper@gmail.com
+- [:email:](jankruk12342@gmail.com)jankruk12342@gmail.com
 
 
 
