@@ -29,7 +29,7 @@ My dream and main goal is to become a full time **Software Developer** and use a
 
 - [**Site for my friend who is Psychologist**](https://magdalenababiarz-psychologlancut.pl/) || BUILD WITH: **HTML + SASS + JS + GULP**
 
-- [**TODO live**](https://janiokruk.github.io/Todo-list---frontend-mentor/) || [**TODO code**](https://github.com/JanioKruk/Todo-list---frontend-mentor)  || BUILD WITH: **HTML + SASS + JS**
+- [**TODO live**](https://jan-kruk.github.io/Todo-list---frontend-mentor/) || [**TODO code**](https://github.com/JanioKruk/Todo-list---frontend-mentor)  || BUILD WITH: **HTML + SASS + JS**
 
 ## Courses I have finished and I can recommend for you to try:
 
