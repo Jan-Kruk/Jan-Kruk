@@ -16,11 +16,7 @@ My dream and main goal is to become a full time **Software Developer** and use a
 
 ## My development toolbelt:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,sass,git,github,vscode,spring,maven,sql)](https://skillicons.dev)
-
-## Currently learning:
-
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,sass,git,github,vscode,java,spring,maven,sql)](https://skillicons.dev)
 
 ## Currently working on:
 
