@@ -20,6 +20,7 @@ My dream and main goal is to become a full time **Software Developer** and use a
 
 ## Currently working on:
 
+- [**Civil engineering panel for small companies**](https://github.com/Jan-Kruk/Panelbudo) || BUILD WITH: **HTML + SASS + JS + Java + Maven + Spring boot Web + Hibernate + SQL**
 
 ## Finished projects:
 
