@@ -20,7 +20,7 @@ My dream and main goal is to become a full time **Software Developer** and use a
 
 ## Currently working on:
 
-- [**Civil engineering panel for small companies**](https://github.com/Jan-Kruk/Panelbudo) || BUILD WITH: **HTML + SASS + JS + Java + Maven + Spring boot Web + Hibernate + SQL**
+- [**Forum budowlane**](https://github.com/Jan-Kruk/forum-gra) || BUILD WITH: **HTML + SASS + JS + Java + Maven + Spring boot Web + Hibernate + SQL**
   
 - [**Site for speech therapist**](https://jan-kruk.github.io/Strona-KruczekLogopedyczny/) || BUILD WITH: **HTML + SASS + JS + Gulp**
 
