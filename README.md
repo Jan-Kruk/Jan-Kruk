@@ -20,9 +20,7 @@ My dream and main goal is to become a full time **Software Developer** and use a
 
 ## Currently working on:
 
-- [**Forum budowlane**](https://github.com/Jan-Kruk/forum-gra) || BUILD WITH: **HTML + SASS + JS + Java + Maven + Spring boot Web + Hibernate + SQL**
-  
-- [**Site for speech therapist**](https://jan-kruk.github.io/Strona-KruczekLogopedyczny/) || BUILD WITH: **HTML + SASS + JS + Gulp**
+
 
 ## Finished projects:
 
@@ -31,6 +29,10 @@ My dream and main goal is to become a full time **Software Developer** and use a
 - [**TODO live**](https://jan-kruk.github.io/Todo-list---frontend-mentor/) || [**TODO code**](https://github.com/JanioKruk/Todo-list---frontend-mentor)  || BUILD WITH: **HTML + SASS + JS**
 
 - [**Console Shop**](https://github.com/Jan-Kruk/CandyShop-consoleProgram)  || BUILD WITH: **JAVA**
+
+- [**Forum budowlane**](https://github.com/Jan-Kruk/forum-gra) || BUILD WITH: **HTML + SASS + JS + Java + Maven + Spring boot Web + Hibernate + SQL**
+  
+- [**Site for speech therapist**](https://jan-kruk.github.io/Strona-KruczekLogopedyczny/) || BUILD WITH: **HTML + SASS + JS + Gulp**
 
 ## Courses I have finished and I can recommend for you to try:
 
